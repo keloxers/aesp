@@ -16,7 +16,7 @@ return array(
 
 	'email'		=>	"<strong>info@aespmisiones.com</strong>",
 
-	'telefono'		=>	"<strong>+54 0376 XXXXXXX</strong>",
+	'telefono'		=>	"<strong>+54 0376 4346174</strong>",
 
 	'seguinos_facebook'		=>	"https://www.facebook.com/AESPMnes",
 
@@ -28,7 +28,7 @@ return array(
 
 	'seguinos_youtube'		=>	"https://www.youtube.com/channel/UC97uxKxQjYpiEOHahX4Gysw",
 
-	'direccion'		=>	"Posadas, Misiones AR",
+	'direccion'		=>	"Francisco de Haro 3161<br>Posadas, Misiones AR",
 
 	'contacto'		=>	"+54 0376 XXXXXXX <br><a href='mailto:info@aespmisiones.com'>info@aespmisiones.com</a>",
 

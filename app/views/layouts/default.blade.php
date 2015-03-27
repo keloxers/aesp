@@ -296,8 +296,9 @@ foreach ($pagestops as $pagestop) {
 					</h6>
 
 					<p>
-						+54 0376 4XXXXXX<br>
-						+54 0376 4XXXXXX<br>
+						+54 0376 4346174<br>
+						+54 0376 4688047<br>
+						+54 0376 4722065<br>
 					</p>
 
 				</div>
