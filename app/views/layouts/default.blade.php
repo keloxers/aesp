@@ -274,8 +274,6 @@ foreach ($pagestops as $pagestop) {
 					<p>
 						info@aespmisiones.com<br>
 						presidente@aespmisiones.com<br>
-						vicepresidente@aespmisiones.com<br>
-						secretaria@aespmisiones.com<br>
 						prensa@aespmisiones.com<br>
 					</p>
 
