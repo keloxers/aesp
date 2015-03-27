@@ -468,10 +468,8 @@ foreach ($pagestops as $pagestop) {
 			<ul class="pi-social-icons-simple pi-small clearFix">
 				<li><a href="{{trans('app.seguinos_facebook')}}" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
 				<li><a href="{{trans('app.seguinos_twitter')}}" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
-				<li><a href="{{trans('app.seguinos_instagram')}}" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
 				<li><a href="{{trans('app.seguinos_youtube')}}" class="pi-social-icon-tumblr"><i class="icon-youtube-play"></i></a></li>
 				<li><a href="{{trans('app.seguinos_googleplus')}}" class="pi-social-icon-gplus"><i class="icon-gplus"></i></a></li>
-				<li><a href="/rss" class="pi-social-icon-rss"><i class="icon-rss"></i></a></li>
 			</ul>
 		</div>
 		<!-- End social icons -->
