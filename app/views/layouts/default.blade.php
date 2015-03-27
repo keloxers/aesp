@@ -497,6 +497,10 @@ foreach ($pagestops as $pagestop) {
 <script src="/scripts/pi.helpers.js"></script>
 <script src="/scripts/pi.boundManager.js"></script>
 <script src="/scripts/pi.imagesLoader.js"></script>
+<script src="/scripts/pi.googleMapStyles.js"></script>
+<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="/3dParty/jquery.gmap.min.js"></script>
+<script src="/scripts/pi.init.map.js"></script>
 <script src="/scripts/pi.columnFix.js"></script>
 <script src="/scripts/pi.init.caption.js"></script>
 <script src="/3dParty/FitVids.js/jquery.fitvids.js"></script>
