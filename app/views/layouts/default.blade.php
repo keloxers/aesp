@@ -272,9 +272,11 @@ foreach ($pagestops as $pagestop) {
 					</h6>
 
 					<p>
-						gerencia@synmisiones.com<br>
-						comercial@synmisiones.com<br>
-						tecnico@synmisiones.com<br>
+						info@aespmisiones.com<br>
+						presidente@aespmisiones.com<br>
+						vicepresidente@aespmisiones.com<br>
+						secretaria@aespmisiones.com<br>
+						prensa@aespmisiones.com<br>
 					</p>
 
 				</div>
@@ -296,10 +298,8 @@ foreach ($pagestops as $pagestop) {
 					</h6>
 
 					<p>
-						+54 0376 4439326<br>
-						+54 0376 154670338<br>
-						+54 0376 154670105<br>
-						+54 0376 154670157<br>
+						+54 0376 4XXXXXX<br>
+						+54 0376 4XXXXXX<br>
 					</p>
 
 				</div>

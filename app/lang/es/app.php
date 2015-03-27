@@ -22,11 +22,11 @@ return array(
 
 	'seguinos_twitter'		=>	"https://twitter.com/AESPMnes",
 
-	'seguinos_googleplus'		=>	"http://plus.google.com/u/0/116409445805080169378/posts",
+	'seguinos_googleplus'		=>	"https://plus.google.com/u/0/114133548219948565240/posts?hl=es-419",
 
 	'seguinos_instagram'		=>	"",
 
-	'seguinos_youtube'		=>	"",
+	'seguinos_youtube'		=>	"https://www.youtube.com/channel/UC97uxKxQjYpiEOHahX4Gysw",
 
 	'direccion'		=>	"Posadas, Misiones AR",
 
