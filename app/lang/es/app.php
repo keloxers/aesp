@@ -8,11 +8,11 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 
-	'site' 		=>  "SyNMisiones.com",
+	'site' 		=>  "AESPMisiones.com",
 
-	'title_site'		=>	"S&N Misiones",
+	'title_site'		=>	"AESP Misiones",
 
-	'title_home' => "Consultora de Gestión de Calidad",
+	'title_home' => "Agrupacion Empleados Salud Pública",
 
 	'email'		=>	"<strong>comercial@synmisiones.com</strong>",
 
