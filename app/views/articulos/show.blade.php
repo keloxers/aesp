@@ -189,6 +189,9 @@
 
 			<div class="pi-sidebar pi-col-sm-3">
 
+				<div class="fb-like" data-href="http://www.aespmisiones.com/" data-width="250" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+				
+
 				<!-- Search -->
 				<div class="pi-sidebar-block pi-padding-bottom-60">
 
