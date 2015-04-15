@@ -18,7 +18,7 @@ return array(
 
 	'telefono'		=>	"<strong>+54 0376 4346174</strong>",
 
-	'seguinos_facebook'		=>	"https://www.facebook.com/AESPMnes",
+	'seguinos_facebook'		=>	"https://www.facebook.com/aesp.misiones",
 
 	'seguinos_twitter'		=>	"https://twitter.com/AESPMnes",
 
