@@ -190,7 +190,7 @@
 			<div class="pi-sidebar pi-col-sm-3">
 
 				<div class="fb-like" data-href="http://www.aespmisiones.com/" data-width="250" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
-				
+
 
 				<!-- Search -->
 				<div class="pi-sidebar-block pi-padding-bottom-60">
@@ -227,7 +227,7 @@
 					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Facebook
 					</h3>
-					<div class='fb-facepile' data-href='http://www.facebook.com/aesp.misiones' data-size='large' data-max-rows='10' data-width='300' data-colorscheme='dark'></div>
+					<div class="fb-page" data-href="https://www.facebook.com/aesp.misiones" data-width="300" data-height="600" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/aesp.misiones"><a href="https://www.facebook.com/aesp.misiones">Aesp Misiones</a></blockquote></div></div>
 				</div>
 				<!-- End flickr photos -->
 
