@@ -170,7 +170,7 @@
 								<div id="disqus_thread"></div>
 								<script type="text/javascript">
 									/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-									var disqus_shortname = 'virasorovirtual'; // required: replace example with your forum shortname
+									var disqus_shortname = 'aespmisiones'; // required: replace example with your forum shortname
 
 									/* * * DON'T EDIT BELOW THIS LINE * * */
 									(function() {
@@ -215,7 +215,7 @@
 					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Ultimos Tweets
 					</h3>
-						<a class="twitter-timeline"  href="https://twitter.com/synservicios" data-widget-id="526869237831172096">Tweets por @synservicios</a>
+						<a class="twitter-timeline"  href="https://twitter.com/aesp.misiones" data-widget-id="526869237831172096">Tweets por @synservicios</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>					</div>
 				<!-- End tweets -->
 
